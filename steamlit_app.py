@@ -1,4 +1,5 @@
 import steamlit
+import typing_extensions
 steamlit.title('My parents new healthy dinner')
 steamlit.header('Breakfast Menu')
 steamlit.text('🥣Omega 3 & Bluberries Oatmeal')
